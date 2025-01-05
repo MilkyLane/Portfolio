@@ -1,4 +1,4 @@
-// emailjsConfig.js
+
 export const EMAILJS_CONFIG = {
     // Your EmailJS service ID
     serviceID: '...',
