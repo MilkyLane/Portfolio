@@ -20,16 +20,16 @@ function Contact() {
     setErrorMessage('');
 
     try {
-      // Send the email directly with the form data
+      
       const response = await emailjs.send(
-        'service_043e4lt',   // Your EmailJS service ID
-        'template_ovc3hfm',  // Your EmailJS template ID
+        '',   
+        '', 
         {
           name: formData.name,
           email: formData.email,
           message: formData.message
         },
-        'D4eLXZC3djphE6Izh'          // Your EmailJS user ID
+        ''          
       );
 
       if (response.status === 200) {
