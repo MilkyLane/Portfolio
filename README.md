@@ -2,6 +2,9 @@
 
 This repository contains my personal portfolio website. It showcases my projects, skills, and contact information. The website is built using HTML, CSS, and JavaScript, with a clean and responsive design.
 
+## Live Page:
+- https://nscportfolio.netlify.app
+
 ## Features
 - Responsive design for all devices.
 - Project showcase with descriptions and links.
