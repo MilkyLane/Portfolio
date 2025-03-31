@@ -16,7 +16,7 @@ This repository contains my personal portfolio website. It showcases my projects
 - React
 - CSS
 - JavaScript
-- Bootstrap (Styling)
+
 
 ## Setup Instructions
 1. Clone the repository:
